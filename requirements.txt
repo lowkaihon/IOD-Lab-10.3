@@ -57,7 +57,6 @@ spacy-loggers==1.0.5
 srsly==2.4.8
 streamlit==1.36.0
 tenacity==8.4.2
-thinc==8.2.5
 threadpoolctl==3.5.0
 toml==0.10.2
 toolz==0.12.1
